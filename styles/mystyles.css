@@ -1,0 +1,29 @@
+.link{color: white;
+text-decoration: underline;
+}
+
+.linkskills{
+    color: black; 
+    text-decoration: underline;
+}
+
+a:hover{color:red;
+    text-decoration: bold;
+}
+
+.underline{text-decoration: underline;
+text-decoration-style:double}
+
+.unbold{
+    text-decoration: none;
+}
+
+.italic{
+    font-style:italic
+}
+
+p{font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+h2{ 
+    outline: dashed 2px teal;
+}
